@@ -12,11 +12,11 @@ This is a simple console-based memory game developed in C++. The game consists o
 
 ## Usage:
 
-### 🛠 Compilation
+**🛠 Compile the program with:**
 ```cpp
 g++ memory_game.cpp -o memory_game
 ```
-### Execution
+**🚀 Execute the program with:**
 ```cpp
 ./memory_game
 ```
