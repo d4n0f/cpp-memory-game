@@ -21,5 +21,6 @@ g++ memory_game.cpp -o memory_game
 ./memory_game
 ```
 
-## License:
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
